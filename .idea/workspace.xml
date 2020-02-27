@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5017363-df25-4f9e-8af6-62b49e60d2e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/definition/CrudProcessos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CrudProcessosSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/processos/crudProcessos.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/user/impactaUser.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/CrudUserSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/CrudUserSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/GeneralSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/GeneralSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/starWars/star_wars_people.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/starWars/star_wars_people.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="skeleton" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="RunnerTest" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectId" id="1XPK1JLoq7hOduGAQDpLOd9jCmE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/steps" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Simples POST com todos os campos preenchidos corretamente">
+    <configuration name="Feature: crudProcessos" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/processos/crudProcessos.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="skeleton" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: crudProcessos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Simples GET com todos os campos preenchidos corretamente" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/processos/crudProcessos.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="skeleton" />
+      <option name="NAME_FILTER" value="^Simples GET com todos os campos preenchidos corretamente$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Simples GET com todos os campos preenchidos corretamente$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Simples GET com todos os campos preenchidos corretamente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Simples POST com todos os campos preenchidos corretamente" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/processos/crudProcessos.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="skeleton" />
+      <option name="NAME_FILTER" value="^Simples POST com todos os campos preenchidos corretamente$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Simples POST com todos os campos preenchidos corretamente$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Simples POST com todos os campos preenchidos corretamente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/processos/crudProcessos.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="skeleton" />
+      <option name="NAME_FILTER" value="^$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Simples POST com todos os campos preenchidos corretamente" />
+        <item itemvalue="Cucumber java.Feature: crudProcessos" />
+        <item itemvalue="JUnit.RunnerTest" />
+        <item itemvalue="Cucumber java.Scenario: " />
+        <item itemvalue="Cucumber java.Scenario: Simples GET com todos os campos preenchidos corretamente" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5017363-df25-4f9e-8af6-62b49e60d2e1" name="Default Changelist" comment="" />
+      <created>1580942072098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580942072098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Intentions" timestamp="1582052190847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Intentions/0.0.1366.728/985.-900.1440.860/-455.-900.1440.860@0.0.1366.728" timestamp="1582052190847" />
+    <state x="280" y="32" key="#RunnerTest" timestamp="1582306102543">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="32" key="#RunnerTest/0.0.1366.728/1366.183.1360.728@0.0.1366.728" timestamp="1582306102543" />
+    <state x="374" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581546196686">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="374" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1581546196686" />
+    <state x="279" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580942477541">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="279" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1580942477541" />
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1580949942209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580949942209" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1581547676381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581547676381" />
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1582661991764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581988709718" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728/1031.-900.1440.860/-409.-900.1440.860@0.0.1366.728" timestamp="1582143446087" />
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.183.1360.728@0.0.1366.728" timestamp="1582661991764" />
+    <state width="1317" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.183.1360.728@1366.183.1360.728" timestamp="1582322300581" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728/985.-900.1440.860/-455.-900.1440.860@0.0.1366.728" timestamp="1582059128219" />
+    <state width="1323" height="172" key="GridCell.Tab.0.center" timestamp="1582661991764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581988709718" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728/1031.-900.1440.860/-409.-900.1440.860@0.0.1366.728" timestamp="1582143446087" />
+    <state width="1323" height="172" key="GridCell.Tab.0.center/0.0.1366.728/1366.183.1360.728@0.0.1366.728" timestamp="1582661991764" />
+    <state width="1317" height="173" key="GridCell.Tab.0.center/0.0.1366.728/1366.183.1360.728@1366.183.1360.728" timestamp="1582322300581" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728/985.-900.1440.860/-455.-900.1440.860@0.0.1366.728" timestamp="1582059128219" />
+    <state width="1323" height="172" key="GridCell.Tab.0.left" timestamp="1582661991764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581988709718" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728/1031.-900.1440.860/-409.-900.1440.860@0.0.1366.728" timestamp="1582143446087" />
+    <state width="1323" height="172" key="GridCell.Tab.0.left/0.0.1366.728/1366.183.1360.728@0.0.1366.728" timestamp="1582661991764" />
+    <state width="1317" height="173" key="GridCell.Tab.0.left/0.0.1366.728/1366.183.1360.728@1366.183.1360.728" timestamp="1582322300580" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728/985.-900.1440.860/-455.-900.1440.860@0.0.1366.728" timestamp="1582059128218" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right" timestamp="1582661991764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581988709718" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728/1031.-900.1440.860/-409.-900.1440.860@0.0.1366.728" timestamp="1582143446087" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right/0.0.1366.728/1366.183.1360.728@0.0.1366.728" timestamp="1582661991764" />
+    <state width="1317" height="173" key="GridCell.Tab.0.right/0.0.1366.728/1366.183.1360.728@1366.183.1360.728" timestamp="1582322300581" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728/985.-900.1440.860/-455.-900.1440.860@0.0.1366.728" timestamp="1582059128219" />
+    <state x="112" y="0" key="SettingsEditor" timestamp="1581547491041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="112" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581547491041" />
+    <state x="335" y="108" width="964" height="508" key="dock-window-1" timestamp="1582303811592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="87" width="903" height="474" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1582155477035" />
+    <state x="451" y="59" width="963" height="507" key="dock-window-1/0.0.1366.728/1031.-900.1440.860/-409.-900.1440.860@0.0.1366.728" timestamp="1582144435038" />
+    <state x="335" y="108" width="964" height="508" key="dock-window-1/0.0.1366.728/1366.183.1360.728@0.0.1366.728" timestamp="1582303811592" />
+    <state x="394" y="263" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1581547691545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="263" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1581547691545" />
+  </component>
+</project>
