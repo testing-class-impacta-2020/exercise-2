@@ -1,4 +1,6 @@
-Exercise 1 - Matheus Catossi | Lucas Beletato
-Testes por API
+# Exercise 2 - Matheus Catossi | Lucas Beletato
 
-Matricula: 1510024, Lucas Beletato Matricula: 1510377, Matheus Catossi
+Exercicio de testes por API.
+
+Matricula: 1510024, Lucas Beletato
+Matricula: 1510377, Matheus Catossi
